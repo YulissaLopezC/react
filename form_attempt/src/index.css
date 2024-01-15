@@ -4,12 +4,12 @@
 
 body {
     margin: 0;
-    background: #222;
+    background: #ffdde1;
     font-family: system-ui;
     display: grid;
     place-content: center;
-    color: white;
     min-height: 100vh;
+    list-style: none;
 }
 
 .App {
@@ -17,3 +17,5 @@ body {
     flex-direction: column;
     gap: 8px;
 }
+
+
